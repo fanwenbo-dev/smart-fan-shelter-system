@@ -50,9 +50,4 @@ Access the web server by entering the IP address displayed on the terminal after
 | Yan Tiong  | DC Motor Integration, Concept Contributor, Debugging Assistance      |
 | Marco      | Structure Designer, Soldering, Motor Circuit Troubleshooting         |
 
-## 📸 System Preview
-
-[Insert photos or GIFs of the hardware setup and website interface here]
-
-## 📁 File Structure
 
